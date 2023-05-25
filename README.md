@@ -29,12 +29,8 @@ class Skills extends Desenvolvedor {
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ruanlima155@gmail.com" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-ruanlima155@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruanlima155@gmail.com)](mailto:joao.fidelis@estudante.ufscar.br)
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/ruan-crysthian/)" /></a>
-</p> 
+[![Linkedin: Ruan Crysthian](https://img.shields.io/badge/-Ruan_Crysthian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-crysthian/)](https://www.linkedin.com/in/ruan-crysthian/)
 
 ![](https://komarev.com/ghpvc/?username=RuanCrysthian&color=006bed)
