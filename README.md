@@ -11,6 +11,7 @@ class SobreMim extends Desenvolvedor {
   curso   = 'Ciência da Computação';
   area    = 'Engenharia de Software';
   trabalho  = 'FAPESP';
+  cargo  = 'Pesquisador acadêmico - Iniciação Científica';
 }
 
 class Skills extends Desenvolvedor {
