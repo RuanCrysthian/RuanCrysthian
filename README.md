@@ -23,10 +23,6 @@ class Skills extends Desenvolvedor {
 }
 ```
 
-## **GitHub Estatísticas**
-
-[![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCrysthian&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-ruanlima155@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruanlima155@gmail.com)](mailto:joao.fidelis@estudante.ufscar.br)
