@@ -23,7 +23,6 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Gmail Badge](https://img.shields.io/badge/-ruanlima155@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruanlima155@gmail.com)](mailto:ruanlima155@gmail.com)
-
 [![Linkedin: Ruan Crysthian](https://img.shields.io/badge/-Ruan_Crysthian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-crysthian/)](https://www.linkedin.com/in/ruan-crysthian/)
 
 ![](https://komarev.com/ghpvc/?username=RuanCrysthian&color=006bed)
