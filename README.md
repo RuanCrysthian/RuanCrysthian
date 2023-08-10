@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C, Python, Java, TypeScript.</strong>
+  Linguagens: <strong>Java, C, Python, TypeScript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Github, Insomnia, Postman.</strong>
+  Tecnologias: <strong>Spring Boot 3, Spring Data, Spring Security, Git, Github, API REST, PostgreSQL, Docker, Docker-Compose.</strong>
 </p>
 
 <p align="left">
@@ -24,5 +24,3 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ruanlima155@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruanlima155@gmail.com)](mailto:ruanlima155@gmail.com)
 [![Linkedin: Ruan Crysthian](https://img.shields.io/badge/-Ruan_Crysthian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-crysthian/)](https://www.linkedin.com/in/ruan-crysthian/)
-
-![](https://komarev.com/ghpvc/?username=RuanCrysthian&color=006bed)
