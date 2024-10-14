@@ -5,7 +5,6 @@
 
 <p align="left"> 
   Estudante de Ciência da Computação pela Universidade Federal de São Carlos, minha área favorita é a <strong>engenharia de software</strong>.<br>
-  Atualmente, sou estagiário em desenvolvimento Backend em uma startup chamada Beth.
 </p>
 
 <p align="left">
